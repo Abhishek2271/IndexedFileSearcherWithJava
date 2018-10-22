@@ -15,6 +15,8 @@ Output:
     - Names of the document with the search term.
     
 Types of search terms supported:
+
+
     - Simple term search,
     - Proximity searches 
       e.g. "term1 term2"~10
